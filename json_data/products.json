@@ -1,0 +1,747 @@
+{
+    "watches": {
+      "item-watches-1": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-2": {
+        "Name": "WatchDeluxoPremium",
+        "Count": 1,
+        "Price": 69420,
+        "Rating": 5,
+        "Brand": "ELCamino",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://d1rkccsb0jf1bk.cloudfront.net/products/100042116/main/medium/90085182.jpg"
+      },
+      "item-watches-3": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-4": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-5": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-6": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-7": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-8": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-9": {
+        "Name": "WatchDeluxoPremium",
+        "Count": 1,
+        "Price": 69420,
+        "Rating": 5,
+        "Brand": "ELCamino",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://d1rkccsb0jf1bk.cloudfront.net/products/100042116/main/medium/90085182.jpg"
+      },
+      "item-watches-10": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-11": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-12": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-13": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-14": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-15": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-16": {
+        "Name": "WatchDeluxoPremium",
+        "Count": 1,
+        "Price": 69420,
+        "Rating": 5,
+        "Brand": "ELCamino",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://d1rkccsb0jf1bk.cloudfront.net/products/100042116/main/medium/90085182.jpg"
+      },
+      "item-watches-17": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-18": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-19": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-20": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-21": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-22": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-23": {
+        "Name": "WatchDeluxoPremium",
+        "Count": 1,
+        "Price": 69420,
+        "Rating": 5,
+        "Brand": "ELCamino",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://d1rkccsb0jf1bk.cloudfront.net/products/100042116/main/medium/90085182.jpg"
+      },
+      "item-watches-24": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-25": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-26": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-27": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-28": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-29": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-30": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-31": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-32": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-33": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-34": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-35": {
+        "Name": "WatchDeluxoPremium",
+        "Count": 1,
+        "Price": 69420,
+        "Rating": 5,
+        "Brand": "ELCamino",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://d1rkccsb0jf1bk.cloudfront.net/products/100042116/main/medium/90085182.jpg"
+      },
+      "item-watches-36": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-37": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-38": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-39": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-40": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-41": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-42": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-43": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-44": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-45": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-46": {
+        "Name": "WatchDeluxoPremium",
+        "Count": 1,
+        "Price": 69420,
+        "Rating": 5,
+        "Brand": "ELCamino",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://d1rkccsb0jf1bk.cloudfront.net/products/100042116/main/medium/90085182.jpg"
+      },
+      "item-watches-47": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-48": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-49": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-50": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-51": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-52": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-53": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-54": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-55": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-56": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-57": {
+        "Name": "WatchDeluxoPremium",
+        "Count": 1,
+        "Price": 69420,
+        "Rating": 5,
+        "Brand": "ELCamino",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://d1rkccsb0jf1bk.cloudfront.net/products/100042116/main/medium/90085182.jpg"
+      },
+      "item-watches-58": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-59": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-60": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      },
+      "item-watches-61": {
+        "Name": "WatchDeluxo",
+        "Count": 12,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "LeGucce",
+        "Color": "#FF0000",
+        "Description": "Precision is key.",
+        "ImageSource": "https://m.media-amazon.com/images/I/71fJ8PJ8ooL._AC_UY1000_.jpg"
+      }
+    },
+    "pants": {
+      "item-pants-1": {
+        "Name": "CasualJeans",
+        "Count": 15,
+        "Price": 80,
+        "Rating": 4,
+        "Brand": "DenimCo",
+        "Color": "#0B4C5F",
+        "Description": "Comfortable jeans for daily wear.",
+        "ImageSource": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPByffJaQ38SssoCVWJo_4LE4OQNMvaJnZA&usqp=CAU"
+      },
+      "item-pants-2": {
+        "Name": "FormalTrousers",
+        "Count": 8,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "ElegantFit",
+        "Color": "#35435A",
+        "Description": "Sleek and stylish trousers for formal occasions.",
+        "ImageSource": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPByffJaQ38SssoCVWJo_4LE4OQNMvaJnZA&usqp=CAU"
+      }
+    },
+    "tops": {
+      "item-tops-1": {
+        "Name": "CottonT-Shirt",
+        "Count": 25,
+        "Price": 25,
+        "Rating": 3,
+        "Brand": "CasualWear",
+        "Color": "#F4C430",
+        "Description": "Simple and comfortable t-shirt for everyday wear.",
+        "ImageSource": "https://images.express.com/is/image/expressfashion/0039_04350001_0098_a001?cache=on&wid=361&fmt=jpeg&qlt=75,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon"
+      },
+      "item-tops-2": {
+        "Name": "SilkBlouse",
+        "Count": 5,
+        "Price": 120,
+        "Rating": 5,
+        "Brand": "ElegantStyle",
+        "Color": "#FF66CC",
+        "Description": "Elegant silk blouse for formal events.",
+        "ImageSource": "https://images.express.com/is/image/expressfashion/0039_04350001_0098_a001?cache=on&wid=361&fmt=jpeg&qlt=75,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon"
+      }
+    },
+    "ties": {
+      "item-ties-1": {
+        "Name": "SilkNecktie",
+        "Count": 10,
+        "Price": 45,
+        "Rating": 4,
+        "Brand": "ElegantTies",
+        "Color": "#800000",
+        "Description": "Classic silk necktie for gentlemen.",
+        "ImageSource": "https://opt.moovweb.net/?quality=90&width=300&height=&format=webp&img=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0505%2F7019%2F9217%2Fproducts%2F22871.jpg%3Fv%3D1678402426"
+      },
+      "item-ties-2": {
+        "Name": "PatternedBowtie",
+        "Count": 7,
+        "Price": 35,
+        "Rating": 3,
+        "Brand": "StylishBow",
+        "Color": "#008080",
+        "Description": "Stylish patterned bowtie for special occasions.",
+        "ImageSource": "https://opt.moovweb.net/?quality=90&width=300&height=&format=webp&img=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0505%2F7019%2F9217%2Fproducts%2F22871.jpg%3Fv%3D1678402426"
+      }
+    },
+    "shoes": {
+      "item-shoes-1": {
+        "Name": "CasualSneakers",
+        "Count": 20,
+        "Price": 60,
+        "Rating": 4,
+        "Brand": "SportiveFeet",
+        "Color": "#228B22",
+        "Description": "Comfortable and stylish sneakers for everyday wear.",
+        "ImageSource": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwkVRjUTUtgBp4IPC2yR1-CmD8wHjwPanZPg&usqp=CAU"
+      },
+      "item-shoes-2": {
+        "Name": "FormalOxfords",
+        "Count": 12,
+        "Price": 150,
+        "Rating": 5,
+        "Brand": "ClassicElegance",
+        "Color": "#800080",
+        "Description": "Elegant oxford shoes for formal events.",
+        "ImageSource": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwkVRjUTUtgBp4IPC2yR1-CmD8wHjwPanZPg&usqp=CAU"
+      }
+    },
+    "belts": {
+      "item-belts-1": {
+        "Name": "LeatherBelt",
+        "Count": 18,
+        "Price": 40,
+        "Rating": 4,
+        "Brand": "ClassicLeather",
+        "Color": "#A52A2A",
+        "Description": "Classic leather belt for both casual and formal wear.",
+        "ImageSource": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfU3IYhpdalex93fliccDIXNSzIaRxxju4rA&usqp=CAU"
+      },
+      "item-belts-2": {
+        "Name": "CanvasBelt",
+        "Count": 5,
+        "Price": 30,
+        "Rating": 3,
+        "Brand": "CasualCanvas",
+        "Color": "#DEB887",
+        "Description": "Casual and comfortable canvas belt for everyday use.",
+        "ImageSource": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfU3IYhpdalex93fliccDIXNSzIaRxxju4rA&usqp=CAU"
+      }
+    },
+    "shirts": {
+      "item-shirts-1": {
+        "Name": "CottonButton-Up",
+        "Count": 22,
+        "Price": 55,
+        "Rating": 4,
+        "Brand": "SmartStyle",
+        "Color": "#00CED1",
+        "Description": "Smart and stylish button-up shirt for business occasions.",
+        "ImageSource": "https://cdn.suitsupply.com/image/upload/b_rgb:efefef,bo_300px_solid_rgb:efefef,c_pad,w_2600/b_rgb:efefef,c_pad,dpr_1,w_1270,h_2286,f_auto,q_auto,fl_progressive/products/Shirts/default/Winter/H6520_1.jpg"
+      },
+      "item-shirts-2": {
+        "Name": "LinenShirt",
+        "Count": 7,
+        "Price": 70,
+        "Rating": 4,
+        "Brand": "SummerBreeze",
+        "Color": "#F08080",
+        "Description": "Light and breathable linen shirt for hot days.",
+        "ImageSource": "https://cdn.shopify.com/s/files/1/1025/3059/products/CLASSIC_WHITE_SHIRT_009_6ebe4c7c-df30-42d9-a330-b8b15acd8d80_2000x2000_crop_center.jpg.webp?v=1658432758"
+      }
+    }
+  }
+  
