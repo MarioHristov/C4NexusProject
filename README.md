@@ -11,3 +11,6 @@ Challenges:
 There were some difficulties with displaying more data and then filtering it. Instead of having separate functions for the load more button and the apply filter one. We have one generalized function that calls all the necessary components.
 
 I wanted to make the process of filtering and sorting the data quick for the user. First I thing I though of was the page reloading. By changing the DOM you get seamless filtration without having to reload the page. 
+
+To load the project it may be necessary to use the following command to run a local server
+`npm install -g http-server`
