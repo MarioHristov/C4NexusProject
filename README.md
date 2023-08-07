@@ -5,7 +5,7 @@ This is a breif explanation of what the project has to offer:
 4. The categories have dynamic rendering based on filters you apply.
 5. Dynamic layout loading
 6. User friendly design
-7. 
+ 
 Challenges:
 
 There were some difficulties with displaying more data and then filtering it. Instead of having separate functions for the load more button and the apply filter one. We have one generalized function that calls all the necessary components.
