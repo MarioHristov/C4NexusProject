@@ -4,12 +4,11 @@ var finalData = {};
 var step = 0;
 async function applyFilters() {
     var sections = document.querySelectorAll(".filter-section");
-    var filtersToApply = { "Color": [], "Brand": [], "PriceRange": [] };
+    var filtersToApply = { "PriceRange": [], "Brand": [], "Color": [] };
     try {
         sections.forEach((section) => {
             filtersToApply[section.id] = getSectionSelection(document.getElementById(`${section.id}`));
         });
-
         const filteredItems = await fetchDataFromJSONFile(filtersToApply);
 
         return filteredItems;
@@ -23,7 +22,7 @@ function getSectionSelection(sectionId) {
     if (sectionId.id === "PriceRange") {
         let prices = sectionId.querySelectorAll("input[type='number']");
         prices.forEach((price) => {
-            result.push(price.value);
+            result.push(parseInt(price.value));
         });
     }
     else {
@@ -44,7 +43,7 @@ async function fetchData() {
         throw new Error('Network response was not ok');
     }
 
-    const data =  await response.json();
+    const data = await response.json();
     return data[category];
 }
 async function fetchDataFromJSONFile(filters) {
@@ -52,38 +51,40 @@ async function fetchDataFromJSONFile(filters) {
         const data = await fetchData();
 
         const filteredItems = {};
-
+        console.log()
         for (const itemId in data) {
             const item = data[itemId];
-            let passesFilter = true;
+            let passesAllFilters = true;
+
             for (const filterGroup in filters) {
                 const options = filters[filterGroup];
-                
+
                 if (filterGroup === "PriceRange") {
                     if (item["Price"] < options[0] || item["Price"] > options[1]) {
-                        passesFilter = false;
+                        passesAllFilters = false;
+                        break;
+                    }
+                } else {
+                    // Check if the item matches any of the chosen options for the filter group
+                    if (options.length > 0 && !options.includes(item[filterGroup])) {
+                        passesAllFilters = false;
                         break;
                     }
                 }
-                else if (options.length > 0 && !options.includes(item[filterGroup])) {
-                    
-                    // If the item doesn't match any of the chosen options for the filter group, skip it.
-                    passesFilter = false;
-                    break;
-                }
             }
 
-            if (passesFilter) {
-                // Add a copy of the matched item to the filteredItems array.
+            if (passesAllFilters) {
+                // Add a copy of the matched item to the filteredItems object.
                 filteredItems[itemId] = { ...item };
             }
         }
-        
+        console.log(filteredItems);
         return filteredItems;
     } catch (error) {
         console.error('Error fetching JSON data:', error);
     }
 }
+
 
 function displayData(data) {
     const container = document.querySelector(".products-grid");
@@ -144,7 +145,7 @@ function displayData(data) {
         }
     }
 }
-async function setCategoryDetails(){
+async function setCategoryDetails() {
     document.querySelector(".category-container").innerHTML = `
     This our finest collection of <b>${category}</b>. We have over ${Object.keys(await fetchData()).length} items available to choose from. What are you waiting for, shop now!
     `;
@@ -153,27 +154,30 @@ async function setCategoryDetails(){
 async function loadData() {
     const maxItems = 20;
     const element = document.getElementById("load-more");
-  
+
     // Fetch filtered data
     const filteredData = await applyFilters();
     const keys = Object.keys(filteredData);
-  
+
     // Display the elements on the page
     let move = step * maxItems;
 
-
+    finalData = {};
+    
     keys.slice(0, maxItems + move).forEach((key) => {
-      finalData[key] = filteredData[key];
+        finalData[key] = filteredData[key];
     });
+
     step++;
+
     // If all elements have been displayed, hide the button
     if (keys.length <= maxItems + move) {
-      element.style.display = "none";
+        element.style.display = "none";
     }
-  
+
     displayData(finalData);
-  }
-  
+}
+
 
 const filterHeaders = document.querySelectorAll(".filter-header");
 filterHeaders.forEach(header => {
@@ -215,7 +219,6 @@ sortingButton.addEventListener("click", function () {
 
 loadData();
 setCategoryDetails();
-
 
 // async function setFilterInformation() {
 //     try {
