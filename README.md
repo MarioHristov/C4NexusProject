@@ -12,5 +12,8 @@ There were some difficulties with displaying more data and then filtering it. In
 
 I wanted to make the process of filtering and sorting the data quick for the user. First I thing I though of was the page reloading. By changing the DOM you get seamless filtration without having to reload the page. 
 
-To load the project it may be necessary to use the following command to run a local server
+To load the project it may be necessary to use the following command into a terminal inside the project folder to create a local server
 `npm install -g http-server`
+
+Then run it with this command
+`http-server`
