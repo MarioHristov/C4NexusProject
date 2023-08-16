@@ -1,15 +1,13 @@
 // const category = new URLSearchParams(window.location.search).get('category');
-
 async function sortByName(reverse) {
     const productsGrid = document.querySelector('.products-grid');
     const liElements = Array.from(productsGrid.querySelectorAll('li.grid-item'));
 
-    const response = await fetch('http://192.168.0.104:8080/json_data/products.json');
-    const data = await response.json();
+    const data = fetchData();
 
     liElements.sort((liA, liB) => {
-        const nameA = data[category][liA.id].Name.toLowerCase();
-        const nameB = data[category][liB.id].Name.toLowerCase();
+        const nameA = data[liA.id].Name.toLowerCase();
+        const nameB = data[liB.id].Name.toLowerCase();
 
         console.log(nameB);
         return reverse === true ? nameB.localeCompare(nameA) : nameA.localeCompare(nameB);
@@ -28,13 +26,11 @@ async function sortByPrice(reverse) {
     const productsGrid = document.querySelector('.products-grid');
     const liElements = Array.from(productsGrid.querySelectorAll('.grid-item'));
 
-
-    const response = await fetch('http://192.168.0.104:8080/json_data/products.json');
-    const data = await response.json();
+    const data = fetchData();
 
     liElements.sort((liA, liB) => {
-        const priceA = data[category][liA.id].Price;
-        const priceB = data[category][liB.id].Price;
+        const priceA = data[liA.id].Price;
+        const priceB = data[liB.id].Price;
         console.log(priceB);
         return reverse === true ? priceB - priceA : priceA - priceB;
     });
