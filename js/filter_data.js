@@ -35,14 +35,7 @@ function getSectionSelection(sectionId) {
     return result;
 }
 async function fetchData() {
-    const response = await fetch('http://192.168.0.104:8080/json_data/products.json');
-
-    // Check if the response is successful
-    if (!response.ok) {
-        throw new Error('Network response was not ok');
-    }
-
-    const data = await response.json();
+    const data = (await fetch('http://192.168.0.104:8080/json_data/products.json')).ok ? await response.json() : await fetch('https://c4-nexus-project.vercel.app/json_data/products.json').json();
     return data[category];
 }
 async function fetchDataFromJSONFile(filters) {
