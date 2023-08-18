@@ -1,5 +1,3 @@
-const category = new URLSearchParams(window.location.search).get('category');
-
 async function fetchData() {
     const response = await fetch('https://c4-nexus-project.vercel.app/json_data/products.json');
     const data = response.ok ? await response.json() : await fetch('http://192.168.0.104:8080/json_data/products.json').json();
