@@ -8,7 +8,7 @@ async function sortByName(reverse) {
     const productsGrid = document.querySelector('.products-grid');
     const liElements = Array.from(productsGrid.querySelectorAll('li.grid-item'));
 
-    const data = fetchData();
+    const data = await fetchData();
     
     console.log(data);
     
@@ -33,7 +33,7 @@ async function sortByPrice(reverse) {
     const productsGrid = document.querySelector('.products-grid');
     const liElements = Array.from(productsGrid.querySelectorAll('.grid-item'));
 
-    const data = fetchData();
+    const data = await fetchData();
 
     liElements.sort((liA, liB) => {
         const priceA = data[liA.id].Price;
