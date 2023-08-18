@@ -11,7 +11,9 @@ async function sortByName(reverse) {
     const liElements = Array.from(productsGrid.querySelectorAll('li.grid-item'));
 
     const data = fetchData();
-
+    
+    console.log(data);
+    
     liElements.sort((liA, liB) => {
         const nameA = data[liA.id].Name.toLowerCase();
         const nameB = data[liB.id].Name.toLowerCase();
